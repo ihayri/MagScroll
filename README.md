@@ -2,9 +2,9 @@
 
 <!-- Product Images -->
 <p align="center">
-  <img src="images/DSC_1551.jpg" width="400" />
-  <img src="images/DSC_1586.jpg" width="400" />
-  <img src="images/DSC_0655.jpg" width="400" />
+  <img src="images/DSC_1551.jpg" width="350" />
+  <img src="images/DSC_1586.jpg" width="350" />
+  <img src="images/DSC_0655.jpg" width="350" />
 </p>
 
 MagScroll is a precision magnetic scroll controller designed to give you a smoother, more intuitive way to interact with your computer.  
