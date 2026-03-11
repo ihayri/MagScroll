@@ -25,7 +25,7 @@ Please tell your family, friends, and colleagues about MagScroll — I’m plann
 
 You can download the MagScroll user manual here:
 
-👉 **[MagScroll_Manual.pdf](MagScroll_Manual.pdf)**
+👉 **[MagScroll™ User Manual.pdf](MagScroll™ User Manual.pdf)**
 
 ---
 
