@@ -29,6 +29,17 @@ You can download the MagScroll user manual here:
 
 ---
 
+## 🔔 Firmware Update Notice
+
+To ensure you always have access to the latest firmware, please note the following:
+
+- The **firmware** folder in this GitHub repository will always contain the **most up‑to‑date firmware files** for MagScroll.
+- The firmware included inside the **zipped companion app downloads** may be **older versions** and are kept only for compatibility.
+
+For the newest features, improvements, and bug fixes, always download firmware from **this GitHub repo**.
+
+---
+
 ## 📥 Companion App (Windows)
 
 If you're using the MagScroll companion app:
