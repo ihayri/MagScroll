@@ -13,7 +13,8 @@ This repository contains the companion app, firmware files, and resources for us
 ---
 ## The newest Function is the VFD Spindle Speed Control
 
- apControl your Spindle Speed including turning it ON and Off.
+ Control your Spindle Speed including turning it ON and OFF.
+ 
  You can see it in this Video:
  
  https://youtu.be/Pd_zzcSXB4o
