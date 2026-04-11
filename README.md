@@ -1,4 +1,4 @@
-# MagScroll – The Future of Scrolling, Zooming & Volume Control
+# MagScroll – The Future of Scrolling, Zooming & Volume Control and More
 
 <!-- Product Images -->
 <p align="center">
@@ -11,6 +11,14 @@ MagScroll is a precision magnetic scroll controller designed to give you a smoot
 This repository contains the companion app, firmware files, and resources for users who backed the first Kickstarter campaign — and for everyone discovering MagScroll now.
 
 ---
+The newest Function is the VFD Spindle Speed Control
+
+ apControl your Spindle Speed including turning it ON and Off.
+ You can see it in this Video:
+ 
+ https://youtu.be/Pd_zzcSXB4o
+
+ ---
 
 ## 🎉 Thank You to All Backers
 
