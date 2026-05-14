@@ -11,6 +11,13 @@ MagScroll™ is a precision magnetic scroll controller designed to give you a sm
 This repository contains the companion app, firmware files, and resources for users who backed the first Kickstarter campaign — and for everyone discovering MagScroll™ now.
 
 ---
+
+## Current Indiegogo campaign:
+
+https://www.indiegogo.com/projects/hayri-projects/magscroll
+
+---
+
 ## The newest Function is the VFD Spindle Speed Control
 
  Control your Spindle Speed including turning it ON and OFF.
