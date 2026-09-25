@@ -1,45 +1,52 @@
-# MagScroll™ – The Future of Scrolling, Zooming & Volume Control and More
+# MagScroll™ – Smooth, Precise Computer Control
 
 <!-- Product Images -->
+
 <p align="center">
   <img src="images/DSC_1551.jpg" width="350" />
   <img src="images/DSC_1586.jpg" width="350" />
   <img src="images/DSC_0655.jpg" width="350" />
 </p>
 
-MagScroll™ is a precision magnetic scroll controller designed to give you a smoother, more intuitive way to interact with your computer.  
-This repository contains the companion app, firmware files, and resources for users who backed the first Kickstarter campaign — and for everyone discovering MagScroll™ now.
+MagScroll™ is a precision magnetic control knob designed to give you a smoother, more intuitive way to interact with your computer.
+
+This repository contains the MagScroll™ companion app, firmware files, documentation, and other resources for existing MagScroll™ owners and for everyone discovering MagScroll™ now.
 
 ---
 
-## Current Indiegogo campaign:
+## 🚀 Current Kickstarter Campaign
 
-https://www.indiegogo.com/projects/hayri-projects/magscroll
+MagScroll™ is back on Kickstarter.
+
+👉 **[MagScroll™ — Smooth, Precise Computer Control](https://www.kickstarter.com/projects/ihayri1/magscroll-smooth-precise-computer-control)**
+
+The project has been approved and is now available as a pre-launch campaign.
 
 ---
 
-## The newest Function is the VFD Spindle Speed Control
+## The Newest Function: VFD Spindle Speed Control
 
- Control your Spindle Speed including turning it ON and OFF.
- 
- You can see it in this Video:
- 
- https://youtu.be/Pd_zzcSXB4o
+Control your spindle speed, including turning it ON and OFF.
 
- ---
+You can see it in this video:
+
+https://youtu.be/Pd_zzcSXB4o
+
+---
 
 ## 🎉 Thank You to All Backers
 
-A huge thank you to all my backers on Kickstarter who made the MagScroll™ a success.  
-Your support turned this idea into a real product, and I’m incredibly grateful.
+A huge thank you to all my backers on Kickstarter who helped make MagScroll™ a real product.
 
-Please tell your family, friends, and colleagues about MagScroll™ — I’m planning a **second campaign in the near future**, and your help spreading the word makes a big difference.
+Your support turned this idea into a manufactured product that has already been delivered to backers around the world. I’m incredibly grateful.
+
+The current Kickstarter campaign is funding the next production run of MagScroll™.
 
 ---
 
 ## 📘 User Manual (PDF)
 
-You can download the MagScroll™ user manual here:
+You can find the MagScroll™ user manual here:
 
 👉 **[MagScroll User Manual](MagScroll_User_Manual.pdf)**
 
@@ -49,50 +56,52 @@ You can download the MagScroll™ user manual here:
 
 To ensure you always have access to the latest firmware, please note the following:
 
-- The **firmware** folder in this GitHub repository will always contain the **most up‑to‑date firmware files** for MagScroll™.
-- The firmware included inside the **zipped companion app downloads** may be **older versions** and are kept only for compatibility.
+* The **Firmware** folder in this GitHub repository will always contain the **most up-to-date firmware files** for MagScroll™.
+* The firmware included inside the **zipped companion app downloads** may be **older versions** and are kept only for compatibility.
 
-For the newest features, improvements, and bug fixes, always download firmware from **this GitHub repo**.
+For the newest features, improvements, and bug fixes, always use the firmware from this GitHub repository.
 
 ---
 
 ## 📥 Companion App (Windows)
 
-If you're using the MagScroll™ companion app:
+The MagScroll™ companion app allows you to configure and customize your MagScroll™, including switching between different control functions.
 
-- **Try v2 first**  
-- If you experience any issues, **try v5**
+Available versions:
 
-The more detailed information you can give me about any problems, the better I can troubleshoot and improve the app.
+* **MagScrollFixedV2.zip** – Recommended first version
+* **MagScrollAppV5.zip** – Alternative version if you encounter issues
+* **MagScrollTest.zip** – Test version
 
----
+The repository also contains the firmware and supporting files required by the different app versions.
 
-## 🚀 Kickstarter Campaign
-
-Here is the link to the first Kickstarter campaign that launched MagScroll™:
-
-👉 https://www.kickstarter.com/projects/ihayri1/magscroll-the-future-of-scrolling-zooming-or-volume-control
+If you encounter any problems, the more detailed information you can provide, the better I can troubleshoot and improve the app.
 
 ---
 
 ## 📂 Repository Contents
 
-- **MagScrollAppV2** – Recommended first version of the companion app  
-- **MagScrollAppV5** – Alternative version if you encounter issues  
-- **Firmware files** – For updating your MagScroll™ device  
-- **Documentation** – Setup instructions and usage notes  
-- **MagScroll_Manual.pdf** – User manual  
+* **MagScrollFixedV2.zip** – Recommended first version of the companion app
+* **MagScrollAppV5.zip** – Alternative version if you encounter issues
+* **MagScrollTest.zip** – Test version of the companion app
+* **Firmware** – Firmware files for updating your MagScroll™ device
+* **Documentation** – Setup instructions and usage notes
+* **MagScroll_User_Manual.pdf** – User manual
 
 ---
 
 ## 🛠 Feedback & Support
 
-If you encounter bugs, have suggestions, or want to share your experience, please open an Issue here on GitHub or contact me directly.  
-Your feedback helps shape the next generation of MagScroll™.
+If you encounter bugs, have suggestions, or want to share your experience, please open an Issue here on GitHub or contact me directly.
+
+Your feedback helps improve MagScroll™.
 
 ---
 
-## 🌟 Stay Tuned
+## 🌟 MagScroll™ on Kickstarter
 
-More updates, improvements, and the **second Kickstarter campaign** are coming soon.  
-Thank you again for being part of this journey!
+Follow the current Kickstarter campaign for launch updates and information about the next production run:
+
+👉 **[MagScroll™ — Smooth, Precise Computer Control](https://www.kickstarter.com/projects/ihayri1/magscroll-smooth-precise-computer-control)**
+
+Thank you for being part of the MagScroll™ journey!
