@@ -24,6 +24,25 @@ The project has been approved and is now available as a pre-launch campaign.
 
 ---
 
+## 🎬 See MagScroll in Action
+
+These short animations demonstrate how MagScroll provides smooth, precise control in different applications.
+
+### Webpage Scrolling
+
+![MagScroll webpage scrolling](images/01_webpage.gif)
+
+### Image Zooming
+
+![MagScroll zooming into an image](images/02_zooming.gif)
+
+### Code Scrolling
+
+![MagScroll scrolling through code](images/03_code.gif)
+
+---
+
+
 ## The Newest Function: VFD Spindle Speed Control
 
 Control your spindle speed, including turning it ON and OFF.
