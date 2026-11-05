@@ -89,7 +89,6 @@ The MagScroll™ companion app allows you to configure and customize your MagScr
 Available versions:
 
 * **MagScrollAppV6.zip** – Latest test version. Feedback welcome.
-* **MagScrollFixedV2.zip** – Recommended stable version.
 * **MagScrollAppV5.zip** – Alternative version if you encounter issues.
 * **MagScrollTest.zip** – Older test version.
 
@@ -102,7 +101,6 @@ If you encounter any problems, the more detailed information you can provide, th
 ## 📂 Repository Contents
 
 * **MagScrollAppV6.zip** – Latest test version of the companion app.
-* **MagScrollFixedV2.zip** – Recommended first version of the companion app
 * **MagScrollAppV5.zip** – Alternative version if you encounter issues
 * **MagScrollTest.zip** – Test version of the companion app
 * **Firmware** – Firmware files for updating your MagScroll™ device
