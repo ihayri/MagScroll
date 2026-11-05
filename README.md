@@ -122,3 +122,9 @@ Follow the current Kickstarter campaign for launch updates and information about
 👉 **[MagScroll™ — Smooth, Precise Computer Control](https://www.kickstarter.com/projects/ihayri1/magscroll-smooth-precise-computer-control)**
 
 Thank you for being part of the MagScroll™ journey!
+
+### Acknowledgements
+
+Special thanks to **Stefan** for his testing, patience, and valuable feedback during the development of MagScroll App V6. His help in identifying the application freezing issues was instrumental in getting them resolved. Without his contribution, I would probably still be chasing that problem.
+
+Thanks, Stefan!
