@@ -20,7 +20,7 @@ MagScroll™ is back on Kickstarter.
 
 👉 **[MagScroll™ — Smooth, Precise Computer Control](https://www.kickstarter.com/projects/ihayri1/magscroll-smooth-precise-computer-control)**
 
-The project has been approved and is now available as a pre-launch campaign.
+The MagScroll™ Kickstarter campaign is now LIVE! You can support the project and follow its progress here.
 
 ---
 
@@ -88,9 +88,10 @@ The MagScroll™ companion app allows you to configure and customize your MagScr
 
 Available versions:
 
-* **MagScrollFixedV2.zip** – Recommended first version
-* **MagScrollAppV5.zip** – Alternative version if you encounter issues
-* **MagScrollTest.zip** – Test version
+* **MagScrollAppV6.zip** – Latest test version. Feedback welcome.
+* **MagScrollFixedV2.zip** – Recommended stable version.
+* **MagScrollAppV5.zip** – Alternative version if you encounter issues.
+* **MagScrollTest.zip** – Older test version.
 
 The repository also contains the firmware and supporting files required by the different app versions.
 
@@ -100,6 +101,7 @@ If you encounter any problems, the more detailed information you can provide, th
 
 ## 📂 Repository Contents
 
+* **MagScrollAppV6.zip** – Latest test version of the companion app.
 * **MagScrollFixedV2.zip** – Recommended first version of the companion app
 * **MagScrollAppV5.zip** – Alternative version if you encounter issues
 * **MagScrollTest.zip** – Test version of the companion app
