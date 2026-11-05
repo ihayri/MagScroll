@@ -77,7 +77,7 @@ To ensure you always have access to the latest firmware, please note the followi
 
 * The **Firmware** folder in this GitHub repository will always contain the **most up-to-date firmware files** for MagScroll™.
 * The firmware included inside the **zipped companion app downloads** may be **older versions** and are kept only for compatibility.
-
+* **MagScroll_v7.hex** is the latest test firmware, with updated scrolling behavior and sensitivity handling. It is included in the V6 companion app package.
 For the newest features, improvements, and bug fixes, always use the firmware from this GitHub repository.
 
 ---
