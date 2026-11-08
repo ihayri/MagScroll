@@ -40,7 +40,6 @@ These short animations demonstrate how MagScroll provides smooth, precise contro
 
 ---
 
-
 ## The Newest Function: VFD Spindle Speed Control
 
 Control your spindle speed, including turning it ON and OFF.
@@ -69,13 +68,29 @@ You can find the MagScroll™ user manual here:
 
 ---
 
-## 🔔 Firmware Update Notice
+## 🔔 Firmware Updates
 
 To ensure you always have access to the latest firmware, please note the following:
 
-* The **Firmware** folder in this GitHub repository will always contain the **most up-to-date firmware files** for MagScroll™.
-* The firmware included inside the **zipped companion app downloads** may be **older versions** and are kept only for compatibility.
-* **MagScroll_v7.hex** is the latest test firmware, with updated scrolling behavior and sensitivity handling. It is included in the V6 companion app package.
+The **Firmware** folder in this GitHub repository contains the latest compiled firmware files for MagScroll™.
+
+The two main firmware versions are:
+
+- **MagScroll_HD.hex** – Full MagScroll HD firmware, supporting high-resolution vertical and horizontal scrolling, with double-tap mode switching.
+- **MagScroll_Vert.hex** – Vertical-only firmware. Horizontal mode and double-tap mode switching are disabled.
+
+The Firmware folder also contains dedicated firmware files for other MagScroll functions:
+
+- **MagCNCAxisJog.hex** – CNC axis jogging
+- **MagScroll_MIDI.hex** – MIDI control
+- **MagSpindle.hex** – VFD spindle speed control
+- **MagTimer.hex** – Timer control
+- **MagVideoScroll.hex** – Video control
+- **MagVLCSeek.hex** – VLC media seeking
+- **MagVolume.hex** – Volume control
+
+Firmware included inside older zipped companion app packages may be older versions and is kept for compatibility.
+
 For the newest features, improvements, and bug fixes, always use the firmware from this GitHub repository.
 
 ---
@@ -86,9 +101,9 @@ The MagScroll™ companion app allows you to configure and customize your MagScr
 
 Available versions:
 
-* **MagScrollAppV6.zip** – Latest test version. Feedback welcome.
-* **MagScrollAppV5.zip** – Alternative version if you encounter issues.
-* **MagScrollTest.zip** – Older test version.
+- **MagScrollAppV6.zip** – Latest test version. Feedback welcome.
+- **MagScrollAppV5.zip** – Alternative version if you encounter issues.
+- **MagScrollTest.zip** – Older test version.
 
 The repository also contains the firmware and supporting files required by the different app versions.
 
@@ -98,12 +113,12 @@ If you encounter any problems, the more detailed information you can provide, th
 
 ## 📂 Repository Contents
 
-* **MagScrollAppV6.zip** – Latest test version of the companion app.
-* **MagScrollAppV5.zip** – Alternative version if you encounter issues
-* **MagScrollTest.zip** – Test version of the companion app
-* **Firmware** – Firmware files for updating your MagScroll™ device
-* **Documentation** – Setup instructions and usage notes
-* **MagScroll_User_Manual.pdf** – User manual
+- **MagScrollAppV6.zip** – Latest test version of the companion app.
+- **MagScrollAppV5.zip** – Alternative version if you encounter issues.
+- **MagScrollTest.zip** – Test version of the companion app.
+- **Firmware/** – Compiled firmware files for updating your MagScroll™ device.
+- **Documentation/** – Setup instructions and usage notes.
+- **MagScroll_User_Manual.pdf** – User manual.
 
 ---
 
@@ -117,7 +132,7 @@ Your feedback helps improve MagScroll™.
 
 ## 🌟 MagScroll™ on Kickstarter
 
-Follow the current Kickstarter campaign for launch updates and information about the next production run:
+Follow the current Kickstarter campaign for updates and information about the next production run:
 
 👉 **[MagScroll™ — Smooth, Precise Computer Control](https://www.kickstarter.com/projects/ihayri1/magscroll-smooth-precise-computer-control)**
 
@@ -125,6 +140,8 @@ Thank you for being part of the MagScroll™ journey!
 
 ### Acknowledgements
 
-Special thanks to **Stefan** for his testing, patience, and valuable feedback during the development of MagScroll App V6. His help in identifying the application freezing issues was instrumental in getting them resolved. Without his contribution, I would probably still be chasing that problem.
+Special thanks to **Stefan** for identifying the application freezing issue and providing his script for Mac users. His contribution helped address an important compatibility problem.
 
-Thanks, Stefan!
+Thanks to **Tobias** for pointing out the possibility of high-resolution scrolling and providing the ESP32 code that inspired further development of this functionality.
+
+Thanks, Stefan and Tobias!
